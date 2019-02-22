@@ -1,4 +1,4 @@
-# AW-WP
+# WP
 He cambiado los colores y le he dado un "estilo urbano" que pega con la temática de la página. Todo aquello que sea un link
 a una pagina local o de internet está con un hover que cambia el color que tiene para decorarlo. Los textos más importantes
 están sombreados con un text-shadow. 
